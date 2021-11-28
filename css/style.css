@@ -25,7 +25,7 @@ html, body {
 	flex-direction: column; /*переворачивает флекс элементы */
 }
 .content{
-	font-family: 'Times New Roman', Times, serif;
+	/* font-family: 'Times New Roman', Times, serif; */
 	flex: 1 1 auto; /*это позволяет нашему флекс-элементу увеличиваться, уменьшатся и базовый размер у него автоматический*/
 }
 .container {
@@ -53,7 +53,7 @@ html, body {
 } */
 
 .title {
-	font-family: Gotham;
+	font-family: Lato;
 	font-size: 30px;
 	font-weight: 900;
 	text-transform: uppercase;
@@ -280,7 +280,7 @@ html, body {
 .servises__litle-title {
 	font-family: Lato;
 	font-size: 16px;
-	font-weight: 600;
+	font-weight: 700;
 	text-transform: uppercase;
 	color: #394b50;
 	padding: 0px 0px 21px 80px;
